@@ -34,3 +34,36 @@ cmake --build build
 ./build/sliding_puzzle
 # Windows:
 .\build\Release\sliding_puzzle.exe
+```
+
+## 操作说明
+
+| 按键 | 功能               |
+|------|------------------|
+| ↑    | 向上移动数字块       |
+| ↓    | 向下移动数字块       |
+| ←    | 向左移动数字块       |
+| →    | 向右移动数字块       |
+| R    | 重新开始游戏（随机打乱） |
+| Q    | 退出游戏            |
+
+## 项目结构
+
+```
+FTXUI-Sliding-Puzzle/
+├── CMakeLists.txt      # CMake 构建配置
+├── README.md           # 项目说明
+├── .gitignore          # Git 忽略文件
+└── src/
+    ├── game.hpp        # 游戏逻辑头文件
+    ├── game.cpp        # 游戏逻辑实现
+    └── main.cpp        # 主程序入口与界面渲染
+```
+
+## 技术实现
+
+- **界面**：使用 FTXUI 库在终端中绘制网格、文本和边框，支持键盘事件。
+- **游戏逻辑**：经典的 15-puzzle 规则，随机打乱时使用逆推法确保谜题有解。
+- **构建系统**：CMake 自动下载 FTXUI 依赖，无需手动安装。
+
+
