@@ -1,0 +1,14 @@
+# Target labels
+ ftxui-populate
+# Source files and their labels
+/workspaces/FTXUI-Sliding-Puzzle/build/_deps/ftxui-subbuild/CMakeFiles/ftxui-populate
+/workspaces/FTXUI-Sliding-Puzzle/build/_deps/ftxui-subbuild/CMakeFiles/ftxui-populate.rule
+/workspaces/FTXUI-Sliding-Puzzle/build/_deps/ftxui-subbuild/CMakeFiles/ftxui-populate-complete.rule
+/workspaces/FTXUI-Sliding-Puzzle/build/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-build.rule
+/workspaces/FTXUI-Sliding-Puzzle/build/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-configure.rule
+/workspaces/FTXUI-Sliding-Puzzle/build/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-download.rule
+/workspaces/FTXUI-Sliding-Puzzle/build/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-install.rule
+/workspaces/FTXUI-Sliding-Puzzle/build/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-mkdir.rule
+/workspaces/FTXUI-Sliding-Puzzle/build/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-patch.rule
+/workspaces/FTXUI-Sliding-Puzzle/build/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-test.rule
+/workspaces/FTXUI-Sliding-Puzzle/build/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-update.rule

@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/sliding_puzzle.dir/src/main.cpp.o CMakeFiles/sliding_puzzle.dir/src/game.cpp.o -o sliding_puzzle  _deps/ftxui-build/libftxui-screen.a _deps/ftxui-build/libftxui-dom.a _deps/ftxui-build/libftxui-component.a _deps/ftxui-build/libftxui-dom.a _deps/ftxui-build/libftxui-screen.a 

@@ -1,0 +1,3 @@
+/workspaces/FTXUI-Sliding-Puzzle/build/_deps/ftxui-subbuild/CMakeFiles/ftxui-populate.dir
+/workspaces/FTXUI-Sliding-Puzzle/build/_deps/ftxui-subbuild/CMakeFiles/edit_cache.dir
+/workspaces/FTXUI-Sliding-Puzzle/build/_deps/ftxui-subbuild/CMakeFiles/rebuild_cache.dir
